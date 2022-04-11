@@ -180,7 +180,7 @@ body {
 }
 
 .about-item .col-sm-3 {
-  text-align: right;
+  text-align: center;
   border-right: 1px solid #ccc;
   padding-bottom: 50px;
 }
@@ -232,7 +232,7 @@ body {
 }
 
 .circle {
-  margin-right: -20px;
+  margin-right: -17px;
   margin-top: 5px;
   float: right;
   width: 9px;
